@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floor
+  - Weapon_Camera
+  - Enemy
+  - Branching Point
+  - Weapon
+  - Appear
+  - pickup
+  - PickUpHealth
+  - PickUpJetPack
+  - swcNode
+  - Bp
+  - Tree
+  - swcLink
+  - soma
+  - Coin
+  - present
+  - Door1
+  - CircleGround
+  - BM
+  - SOM
+  - InstructBtn
+  - InstructUI
+  - ResumeMenu
+  - EnemyShootPoint
+  - EnemyBullet
+  - Butter
+  - InstructText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Weapon
+  - Water
+  - UI
+  - enemy
+  - player
+  - ground
+  - bullet
+  - resume
+  - minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
